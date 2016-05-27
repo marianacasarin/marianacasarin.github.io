@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://marianacasarin.github.io
+title: Mariana Archibotics Blog
+email: mnascimentocasarin@hawk.iit.edu
+author: marianacasarin
+description: An activity register for the Research at Architectural Robotics  for the Summer Research at IIT 
+paginate: 5
+google_analytics: 
