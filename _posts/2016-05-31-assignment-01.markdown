@@ -3,7 +3,7 @@ published: true
 title: Assignment 01
 layout: post
 ---
-[Asimov Robotic Laws](/images/goodRobot.png)
+![Asimov Robotic Laws](/images/goodRobot.png)
 
 ### What is architecture?
 
