@@ -30,15 +30,14 @@ Check the Volkswagen parking tower videos below for an example.
 [World's biggest car delivery center Video Reuters](https://www.youtube.com/watch?v=o0-b-D6TCpY/)
 
 	
-<span style="color:gray;">
+<span style="color:red;">
 
 References
+
 Funk & Wagnalls New World Encyclopedia. Architecture. 1p. 1, 2016. 
 
 TILGHMAN, Benjamin. Reflections on Aesthetic Judgment and other Essays. Chapter 9: Architecture, Expression and the Understanding of a Culture. p. 95, 2006.
 
 Cambridge Dictionaries Online. robot. Available at: [http://dictionary.cambridge.org/us/dictionary/english/robot] Accessed 28 May 2016
 
-NOVIKOV, Petr. Robohub. Architectural robotics: The shape of the robots that will shape your home. Available at: [http://robohub.org/architectural-robotics-shape-of-the-robots-that-will-shape-your-home-in-dom-reconfigurable-spaces/] Accessed 28 May 2016
-
-</span>
+NOVIKOV, Petr. Robohub. Architectural robotics: The shape of the robots that will shape your home. Available at: [http://robohub.org/architectural-robotics-shape-of-the-robots-that-will-shape-your-home-in-dom-reconfigurable-spaces/] Accessed 28 May 2016 </span>
