@@ -15,16 +15,16 @@ Cambridge dictionary defines robot as "a mechanical device that works aromatical
 
 ### How could a robot be architectural?
 
-	The robotics have already changed the way people face the life in many ways. The implementation of robots brought revolution for the human industry and interest areas, the architecture is one of them. When picturing robots associated with the architecture many people will think of humanoid models performing the same tasks human already perform. Although it could make the process more precise and efficient, it is a waste of resources to project a robot considering the human limits. The human body is an obsolete machine. Instead of automating the processes a person performs, the robots are going to become architectural by the reinvention of these processes. 
+The robotics have already changed the way people face the life in many ways. The implementation of robots brought revolution for the human industry and interest areas, the architecture is one of them. When picturing robots associated with the architecture many people will think of humanoid models performing the same tasks human already perform. Although it could make the process more precise and efficient, it is a waste of resources to project a robot considering the human limits. The human body is an obsolete machine. Instead of automating the processes a person performs, the robots are going to become architectural by the reinvention of these processes. 
 See the minibuilders IAAC project video below for an example.
 
-[Minibuilders IAAC] (https://www.youtube.com/watch?v=ZmKH7gK-xWo)
+[Minibuilders IAAC](https://www.youtube.com/watch?v=ZmKH7gK-xWo)
 
 
 
 ### How could architecture be robotic?
 
-	The robotics expands the possibilities for the architecture. A space can be dynamic and adaptive, responding in real time to variations at the environment or the user behavior and wills.
+The robotics expands the possibilities for the architecture. A space can be dynamic and adaptive, responding in real time to variations at the environment or the user behavior and wills.
 Check the Volkswagen parking tower videos below for an example.
 
 [World's biggest car delivery center Video Reuters](https://www.youtube.com/watch?v=o0-b-D6TCpY/)
