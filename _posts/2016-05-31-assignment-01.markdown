@@ -1,0 +1,31 @@
+---
+published: true
+title: Assignment 01
+layout: post
+---
+What is architecture?
+Architecture referees to the process of projecting and constructing structures, more commonly buildings. This process can be seen as an art since its product becomes a historical and cultural document of the society.
+Paraphrasing Vitruvius (considered the godfather of architecture, lived in Rome 1st century BC), the English poet Sir Henry Wotton (1568 – 1639)  stated that "Well building hath three conditions: Commoditie, Firmenes, and Delight". In other (and very simplistic) words, one could say that a building must meet its purpose with robustness a pleasant aesthetic, and that process is changing based on the available technologies.
+
+What is a robot?
+Cambridge dictionary defines robot as "a mechanical device that works aromatically or by computer control". It is a sophisticated automated machine that can be (re)programmed easily, therefore versatile and adaptable. However in a classical definition robots are intended to mechanically perform repetitive tasks,  with the advance of the technology, the Artificial Intelligence and the Internet Of Things many things before pictured only in science fiction are increasingly closer to the reality.
+
+How could a robot be architectural?
+	The robotics have already changed the way people face the life in many ways. The implementation of robots brought revolution for the human industry and interest areas, the architecture is one of them. When picturing robots associated with the architecture many people will think of humanoid models performing the same tasks human already perform. Although it could make the process more precise and efficient, it is a waste of resources to project a robot considering the human limits. The human body is an obsolete machine. Instead of automating the processes a person performs, the robots are going to become architectural by the reinvention of these processes.
+
+
+
+How could architecture be robotic?
+	The robotics expands the possibilities for the architecture. A space can be dynamic and adaptive, responding in real time to variations at the environment or the user behavior and wills.
+
+	
+
+
+References
+Funk & Wagnalls New World Encyclopedia. Architecture. 1p. 1, 2016. 
+
+TILGHMAN, Benjamin. Reflections on Aesthetic Judgment and other Essays. Chapter 9: Architecture, Expression and the Understanding of a Culture. p. 95, 2006.
+
+Cambridge Dictionaries Online. robot. Available at: <http://dictionary.cambridge.org/us/dictionary/english/robot> Accessed 28 May 2016
+
+NOVIKOV, Petr. Robohub. Architectural robotics: The shape of the robots that will shape your home. Available at: <http://robohub.org/architectural-robotics-shape-of-the-robots-that-will-shape-your-home-in-dom-reconfigurable-spaces/> Accessed 28 May 2016
