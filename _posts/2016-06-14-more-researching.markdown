@@ -1,6 +1,6 @@
 ---
 published: true
-title: More Researching: Telepresence
+title: More Researching - Telepresence
 layout: post
 ---
 ![Star Wars Hologram](images/telepresence.jpg)
