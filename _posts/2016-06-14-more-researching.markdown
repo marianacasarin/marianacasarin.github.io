@@ -3,7 +3,7 @@ published: true
 title: More Researching: Telepresence
 layout: post
 ---
-!{Star Wars Hologram}[images/telepresence.jpg]
+!(Star Wars Hologram)[images/telepresence.jpg]
 
 I looked for some inspirations and some sources recommended by the professor about the telepresence.
 
