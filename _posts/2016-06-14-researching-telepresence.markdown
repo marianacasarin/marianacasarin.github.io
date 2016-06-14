@@ -13,4 +13,4 @@ Some other exciting work done about telepresence can be seen [here](http://www.e
 
 [Double 2](http://www.doublerobotics.com/) by Double Robotics is a more high-tech and modern model similar to the Ornitorrinco. It also displays the controller image. A nice unpacking and testing video [here](https://www.youtube.com/watch?v=WXPuBd4IfQ8).
 
-And at last a very inspiring robot that displays the [future of telepresence](http://www.vocativ.com/323957/finally-a-robot-assistant-as-affordable-as-it-is-adorable/).
+And at last a very inspiring robot for [home use](http://www.vocativ.com/323957/finally-a-robot-assistant-as-affordable-as-it-is-adorable/).
