@@ -1,9 +1,10 @@
 ---
 published: true
-title: More Researching
+title: More Researching: Telepresence
 layout: post
 ---
 I looked for some inspirations and some sources recommended by the professor about the telepresence.
+!{Star Wars Hologram}[images/telepresence.jpg]
 
 First, the [telegarden](http://goldberg.berkeley.edu/garden/Ars/) 1995-2004. This was a pioneer in this field. A garden cultivated remotely by people around the world. The most archaic science united to the top technology. That was a huge success.
 
